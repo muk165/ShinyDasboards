@@ -1,0 +1,13 @@
+name: USArrestDashboard
+title: USArrestDashboard
+username:
+account: muk56
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7437306
+bundleId: 6454430
+url: https://muk56.shinyapps.io/USArrestDashboard/
+when: 1667063383.18224
+lastSyncTime: 1667063383.18226
+asMultiple: FALSE
+asStatic: FALSE
